@@ -1,3 +1,3 @@
 # Python-Codes
 
-Codes which i wrote, while learning python
+Codes which I wrote, while learning Python
